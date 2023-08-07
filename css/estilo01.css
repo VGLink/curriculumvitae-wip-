@@ -1,0 +1,16 @@
+h1, h2{ 
+    text-transform: capitalize ;
+}
+
+img{
+    width: 200px;
+    height: 250px;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline #1829c4 2px;
+}
